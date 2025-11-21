@@ -10,3 +10,5 @@ Day 2 Challenge. Continuation of git hub Training.
 #### Demo 4.
 All is well.
 
+#### Demo 5
+Trip Mode ON
